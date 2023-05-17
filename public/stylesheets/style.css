@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  color: black;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.bg-3{
+  background-color: blueviolet;
+  
+
+}
+@media(min-width: 768px){
+  .bg-3{
+    display: block;
+  }
+}
+.nav-item{
+  color: aqua;
+}
